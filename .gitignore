@@ -1,0 +1,13 @@
+/.vs/*
+**.vs/*
+.vs/*
+**/bin/*
+**/obj/*
+packages
+**/e2e/*
+**/.idea/*
+**/.angular/*
+**/.bin/*
+**/node_modules/*
+**.vscode/*
+**/.vscode/*
