@@ -123,14 +123,10 @@ public class Program
                 }
             }
             else
-            {
                 Console.WriteLine("No child elements with class 'wpb_column vc_column_container vc_col-sm-4' found.");
-            }
         }
         else
-        {
             Console.WriteLine("Div element with id='content' and class='content' and role='main' not found.");
-        }
     }
 
     private static string GetLastUrlPart(string url)
